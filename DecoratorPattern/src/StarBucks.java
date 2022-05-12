@@ -3,7 +3,7 @@ import beverages.DarkRoast;
 import decorators.Mocha;
 import decorators.Whip;
 
-public class Driver {
+public class StarBucks {
     public static void main(String[] args) {
         // Making a Double Mocha Whip DarkRoast Coffee for you.
 
